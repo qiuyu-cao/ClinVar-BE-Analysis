@@ -1,6 +1,6 @@
 # ClinVar Variant Analysis for Base Editing
 
-> These scripts were developed for the analyses in my paper "Protein-Nucleic Acid Language Model-assisted Design of Precise and Compact Adenine Base Editor".
+> These scripts were developed for the analyses in our paper "Protein-Nucleic Acid Language Model-assisted Design of Precise and Compact Adenine Base Editor".
 
 ## Description
 
