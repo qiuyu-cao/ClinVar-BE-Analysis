@@ -1,11 +1,13 @@
 # ClinVar Variant Analysis for Base Editing
 
+> These scripts were developed for the analyses in my paper "Protein-Nucleic Acid Language Model-assisted Design of Precise and Compact Adenine Base Editor".
+
 ## Description
 
 This repository contains scripts to analyze ClinVar database variants, focusing on:
 1. Statistical analysis of pathogenic variant types
 2. Distribution of point mutations
-3. Evaluation of which point mutations can be corrected by different versions of base editors (ABE8e, ABE8e-YA, ABE9, pcABE)
+3. Evaluation of which point mutations can be corrected by different versions of base editors (ABE8e, ABE9, pcABE)
 
 ## Usage
 
